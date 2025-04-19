@@ -28,6 +28,18 @@ export default {
 					DEFAULT: 'hsl(var(--primary))',
 					foreground: 'hsl(var(--primary-foreground))'
 				},
+				youtube: {
+					red: '#FF0000',
+					dark: '#0F0F0F',
+					darkBg: '#0F0F0F', 
+					lightBg: '#F9F9F9',
+					blue: '#1e40af',
+					lightBlue: '#3b82f6',
+					darkSlate: '#0f172a',
+					cardBg: '#1e293b',
+					text: '#ffffff',
+					lightText: '#cbd5e1'
+				},
 				secondary: {
 					DEFAULT: 'hsl(var(--secondary))',
 					foreground: 'hsl(var(--secondary-foreground))'
